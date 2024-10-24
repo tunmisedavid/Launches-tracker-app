@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Launches-tracker-app/static/css/main.99c93228.css",
+    "main.js": "/Launches-tracker-app/static/js/main.fba5b1d0.js",
+    "static/js/453.6c757310.chunk.js": "/Launches-tracker-app/static/js/453.6c757310.chunk.js",
+    "static/media/logo.svg": "/Launches-tracker-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Launches-tracker-app/index.html",
+    "main.99c93228.css.map": "/Launches-tracker-app/static/css/main.99c93228.css.map",
+    "main.fba5b1d0.js.map": "/Launches-tracker-app/static/js/main.fba5b1d0.js.map",
+    "453.6c757310.chunk.js.map": "/Launches-tracker-app/static/js/453.6c757310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99c93228.css",
+    "static/js/main.fba5b1d0.js"
+  ]
+}
